@@ -2,7 +2,7 @@
 
 ![Header](github-header-image.png)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodriguez1994/)
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZmMyZmNmOTQtNmE4My00M2FlLWE4Y2QtZDRjOWI5MjNhODYyIiwidCI6IjUxZjE5OTZjLWJlMzYtNDc4MC04ZDUzLTNjY2QwMzdjNzlmMiIsImMiOjR9)
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDFjODVjOGItNzNkOC00NGJhLTlhMWYtOWQ4ZTYxZWFiZWFjIiwidCI6IjUxZjE5OTZjLWJlMzYtNDc4MC04ZDUzLTNjY2QwMzdjNzlmMiIsImMiOjR9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego0302.dr@gmail.com)
 
 This profile is like my adventure journal in the world of data analysis. You'll find everything from wild experiments with pandas 🐼 to visualizations trying to tell stories with numbers 📊✨. It’s all part of my learning journey—bugs, wins, and everything in between.
